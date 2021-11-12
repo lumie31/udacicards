@@ -20,7 +20,7 @@ const StartQuiz = ({ route, navigation }) => {
   useEffect(() => {
     AsyncStorage.getItem(ANSWER_KEY)
       .then((s) => {
-        console.log(s);
+        // console.log(s);
         const data = JSON.parse(s);
         if (data !== null) {
           const returnVal = Object.keys(data)
