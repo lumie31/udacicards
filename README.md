@@ -6,12 +6,12 @@ A mobile application that allows users to study collections of flashcards. The a
 
 ## Screenshots
 
-<div align="center">
+<div>
   <br>
-  <img src="./assets/img/Home.png" alt="screenshots" width="200">
-  <img src="./assets/img/AddNew.png" alt="screenshots" width="200">
-  <img src="./assets/img/Multiple_actions.png" alt="screenshots" width="200">
-  <img src="./assets/img/Quizview.png" alt="screenshots" width="200">
+  <img src="./assets/img/Home.png" alt="home-screenshot" width="200">
+  <img src="./assets/img/AddNew.png" alt="addnew-screenshot" width="200">
+  <img src="./assets/img/Multiple_actions.png" alt="actions-screenshot" width="200">
+  <img src="./assets/img/Quizview.png" alt="quiz-screenshot" width="200">
   <br>
 </div>
 
